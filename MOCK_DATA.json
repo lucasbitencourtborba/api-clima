@@ -1,0 +1,214 @@
+[
+    {
+      "id": 1,
+      "activity_title": "Ice skating",
+      "requisites": { "cost": "R$30,00", "participants_number": 1 },
+      "suggested_location": "Ice skating rink",
+      "suggested_weather_conditions": "Snow",
+      "unsuggested_weather_conditions": []
+    },
+    {
+      "id": 2,
+      "activity_title": "Ice skating in open location",
+      "requisites": { "cost": "R$15,00", "participants_number": 1 },
+      "suggested_location": "Open air ice skating rink",
+      "suggested_weather_conditions": "Clear",
+      "unsuggested_weather_conditions": ["Rain", "Drizzle", "ThunderStorm"]
+    },
+    {
+      "id": 3,
+      "activity_title": "Skating",
+      "requisites": { "cost": null, "participants_number": 1 },
+      "suggested_location": "Public park",
+      "suggested_weather_conditions": "Clear",
+      "unsuggested_weather_conditions": [
+        "Rain",
+        "Drizzle",
+        "ThunderStorm",
+        "Snow"
+      ]
+    },
+    {
+      "id": 4,
+      "activity_title": "Picknik",
+      "requisites": { "cost": "R$50,00", "participants_number": 2 },
+      "suggested_location": "Open sky ice skating rink",
+      "suggested_weather_conditions": "Clear",
+      "unsuggested_weather_conditions": [
+        "Rain",
+        "Drizzle",
+        "ThunderStorm",
+        "Snow"
+      ]
+    },
+    {
+      "id": 5,
+      "activity_title": "Playing videogames",
+      "requisites": { "cost": "R$300,00", "participants_number": 1 },
+      "suggested_location": "Home",
+      "suggested_weather_conditions": "Drizzle",
+      "unsuggested_weather_conditions": ["ThunderStorm", "Clear"]
+    },
+    {
+      "id": 6,
+      "activity_title": "Swimming",
+      "requisites": { "cost": null, "participants_number": 1 },
+      "suggested_location": "Pool",
+      "suggested_weather_conditions": "Clear",
+      "unsuggested_weather_conditions": [
+        "ThunderStorm",
+        "Rain",
+        "Drizzle",
+        "Clouds",
+        "Snow"
+      ]
+    },
+    {
+      "id": 7,
+      "activity_title": "Dancing in the rain",
+      "requisites": { "cost": null, "participants_number": 1 },
+      "suggested_location": "Public space",
+      "suggested_weather_conditions": "Rain",
+      "unsuggested_weather_conditions": [
+        "ThunderStorm",
+        "Clear",
+        "Clouds",
+        "Snow"
+      ]
+    },
+    {
+      "id": 8,
+      "activity_title": "Jumping on rain puddles",
+      "requisites": { "cost": null, "participants_number": 1 },
+      "suggested_location": "Public space",
+      "suggested_weather_conditions": "Drizzle",
+      "unsuggested_weather_conditions": ["ThunderStorm", "Snow", "Clear"]
+    },
+    {
+      "id": 9,
+      "activity_title": "Scientific experiment",
+      "requisites": { "cost": "R$1000,00", "participants_number": 5 },
+      "suggested_location": null,
+      "suggested_weather_conditions": "ThunderStorm",
+      "unsuggested_weather_conditions": ["Rain", "Drizzle"]
+    },
+    {
+      "id": 10,
+      "activity_title": "Snowball fight",
+      "requisites": { "cost": null, "participants_number": 4 },
+      "suggested_location": "Open air Space",
+      "suggested_weather_conditions": "Snow",
+      "unsuggested_weather_conditions": ["ThunderStorm", "Rain", "Clear"]
+    },
+    {
+      "id": 11,
+      "activity_title": "Get cozy in your house",
+      "requisites": { "cost": null, "participants_number": 1 },
+      "suggested_location": "Home",
+      "suggested_weather_conditions": "Clouds",
+      "unsuggested_weather_conditions": []
+    },
+    {
+      "id": 12,
+      "activity_title": "Cook a meal",
+      "requisites": { "cost": "R$100,00", "participants_number": 2 },
+      "suggested_location": "Kitchen",
+      "suggested_weather_conditions": "Drizzle",
+      "unsuggested_weather_conditions": []
+    },
+    {
+      "id": 13,
+      "activity_title": "Have a barbecue",
+      "requisites": { "cost": "R$100,00", "participants_number": 10 },
+      "suggested_location": "By the pool side",
+      "suggested_weather_conditions": "Clear",
+      "unsuggested_weather_conditions": [
+        "Clouds",
+        "ThunderStorm",
+        "Rain",
+        "Drizzle",
+        "Snow"
+      ]
+    },
+    {
+      "id": 14,
+      "activity_title": "Watch a romantic movie",
+      "requisites": { "cost": "R$10,00", "participants_number": 2 },
+      "suggested_location": "TV Room",
+      "suggested_weather_conditions": "Clouds",
+      "unsuggested_weather_conditions": []
+    },
+    {
+      "id": 15,
+      "activity_title": "Pillow fight",
+      "requisites": { "cost": null, "participants_number": 4 },
+      "suggested_location": "House",
+      "suggested_weather_conditions": "Clouds",
+      "unsuggested_weather_conditions": ["ThunderStorm", "Clear"]
+    },
+    {
+      "id": 16,
+      "activity_title": "Collect rain water",
+      "requisites": { "cost": null, "participants_number": 3 },
+      "suggested_location": "Roof of your house",
+      "suggested_weather_conditions": "Rain",
+      "unsuggested_weather_conditions": [
+        "Thunderstorm",
+        "Snow",
+        "Clear",
+        "Clouds"
+      ]
+    },
+    {
+      "id": 17,
+      "activity_title": "Board Games",
+      "requisites": { "cost": "R$200,00", "participants_number": 6 },
+      "suggested_location": "In house",
+      "suggested_weather_conditions": "Rain",
+      "unsuggested_weather_conditions": []
+    },
+    {
+      "id": 18,
+      "activity_title": "Drink hot beverages",
+      "requisites": { "cost": null, "participants_number": 3 },
+      "suggested_location": "Kitchen",
+      "suggested_weather_conditions": "Snow",
+      "unsuggested_weather_conditions": ["Clear"]
+    },
+    {
+      "id": 19,
+      "activity_title": "Clean the house",
+      "requisites": { "cost": null, "participants_number": 3 },
+      "suggested_location": "In house",
+      "suggested_weather_conditions": "Drizze",
+      "unsuggested_weather_conditions": ["Clear", "ThunderStorm"]
+    },
+    {
+      "id": 20,
+      "activity_title": "Find shelter from the thunder",
+      "requisites": { "cost": null, "participants_number": 1 },
+      "suggested_location": "Public spaces",
+      "suggested_weather_conditions": "ThunderStorm",
+      "unsuggested_weather_conditions": [
+        "Clear",
+        "Snow",
+        "Clouds",
+        "Drizzle",
+        "Rain"
+      ]
+    },
+    {
+      "id": 21,
+      "activity_title": "Play Frankenstein",
+      "requisites": { "cost": "R$10000,00", "participants_number": 2 },
+      "suggested_location": "Anywhere",
+      "suggested_weather_conditions": "ThunderStorm",
+      "unsuggested_weather_conditions": [
+        "Clear",
+        "Rain",
+        "Clouds",
+        "Drizzle",
+        "Snow"
+      ]
+    }
+  ]
